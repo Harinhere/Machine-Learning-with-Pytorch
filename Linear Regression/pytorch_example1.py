@@ -1,3 +1,4 @@
+#Author: Harindranath Ambalampitiya, PhD (Theoretical Atomic, Molecular, and Optical Physics)
 import torch
 import torch.nn as nn
 import numpy as np
